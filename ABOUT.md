@@ -1,8 +1,8 @@
 # About Rob Bills
 
-I’m Rob—an empathetic technologist, developer educator, and former Air Force instructor who believes great learning starts with respect, not requirements.
+I’m Rob, an empathetic technologist, developer educator, and former Air Force instructor who believes great learning starts with respect, not requirements.
 
-For over 20 years, I’ve taught everyone from cybersecurity pros to absolute beginners. My career has taken me from teaching military technologies to onboarding software engineers at top-tier cybersecurity companies—and now, building my own educational platforms from the ground up.
+For over 20 years, I’ve taught everyone from cybersecurity pros to absolute beginners. My career has taken me from teaching military technologies to onboarding software engineers at top-tier cybersecurity companies. Now I'm building my own educational platforms from the ground up.
 
 ---
 
