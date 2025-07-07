@@ -33,7 +33,7 @@ Design a **zero-assumption lesson** that:
 
 I authored and produced **Lesson 8: Starting from Zero** using a concept-first instructional approach:
 
-> **Teach what it is. Label it later.**
+> **Teach what it is, then what it's called.**
 
 Instead of leading with terms like `variable`, `loop`, or `function`, the lesson introduces real-world analogies, paper-based logic exercises, and thinking strategies—then retroactively maps these to proper vocabulary.
 
