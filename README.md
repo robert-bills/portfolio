@@ -33,7 +33,6 @@ This portfolio highlights select projects across developer education, instructio
 | [Rapid7 Training Automation](case-studies/rapid7-onboarding-automation.md) _(coming soon)_ | Streamlined badge delivery and scoring logic using Python and Skilljar integrations |
 
 ---
-
 ## 🤝 Let’s Work Together
 
 I take on freelance, contract, and project-based work in:
@@ -42,6 +41,8 @@ I take on freelance, contract, and project-based work in:
 - Technical training strategy
 - Course development and documentation
 - Developer Relations support
+
+You can browse my current offerings in [`SERVICES.md`](SERVICES.md).
 
 If you’re looking for someone who can write the code *and* teach it—[let’s talk](mailto:robert.al.bills@gmail.com).
 
