@@ -8,6 +8,8 @@
 
 What started as a simple “Wouldn’t it be easier if…” moment turned into an 18-month exploration of hardware, networking, 3D printing, and human-centered design. I wasn’t trying to build a full-stack solution, I just didn’t want to get interrupted while teaching. But the project had other plans.
 
+I've shared the code, specifications, and that first enclosure pattern [here](https://github.com/robert-bills/maker-projects/tree/master/stoplight-status-indicator).  
+
 ---
 
 ## The Problem
