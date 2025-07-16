@@ -30,7 +30,7 @@ This portfolio highlights select projects across developer education, instructio
 |-------|---------|
 | [Lesson 8 – Starting from Zero](case-studies/lesson8-starting-from-zero.md) | A confidence-first programming lesson for true beginners |
 | [SeaBeasties Tools](case-studies/SeaBeasties-Tools_Case-Study.md) | A suite of ad-supported micro-tools to demonstrate rapid development, branding, and UX design |
-| [Rapid7 Training Automation](case-studies/rapid7-onboarding-automation.md) _(coming soon)_ | Streamlined badge delivery and scoring logic using Python and Skilljar integrations |
+| [Putting 'Stop Lights' on my office door](case-studies/stoplights.md) | What seemed simple at the time willed itself into being as a full-stack solution that I wasn't prepared to handle |
 
 ---
 ## 🤝 Let’s Work Together
