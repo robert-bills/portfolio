@@ -1,6 +1,6 @@
 # Rob Bills – Technical Educator & Developer Advocate Portfolio
 
-Welcome! I'm Rob Bills—an empathetic technologist who turns complex systems into confident learning experiences.
+Welcome! I'm Rob Bills, I work to turn complex systems into confident learning experiences.  Not everyone learns at the same rate or in the same way.  I've been on both sides of this, so I've made it a mission to make learning available for all types of learners.  
 
 Whether you're onboarding new developers, launching a product, or explaining a tricky concept to a non-technical audience, I can help you create clear, engaging, and scalable content that actually teaches.
 
