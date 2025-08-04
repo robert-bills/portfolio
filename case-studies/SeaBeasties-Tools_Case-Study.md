@@ -32,7 +32,7 @@ The project serves a dual purpose:
 - Clean drag-and-drop interface  
 - Useful for students, writers, or legal professionals
 
-### 🐟 Phish Finder *(in progress)*  
+### 🐟 Phish Finder  
 - Paste email text to scan for phishing indicators  
 - Uses regex and heuristics for urgency, link spoofing, etc.  
 - Designed to be fast, clear, and explainable for non-technical users
@@ -61,7 +61,7 @@ The project serves a dual purpose:
 
 ## 🌐 Want to See It Live?
 
-[Explore SeaBeasties Tools](https://developer-you.netlify.app/tools)  
+[Explore SeaBeasties Tools](https://SeaBeasties.tools)  
 (Hosted on Netlify under the `tools` directory)
 
 ---
