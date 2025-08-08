@@ -32,6 +32,7 @@ This portfolio highlights select projects across developer education, instructio
 | [SeaBeasties Tools](case-studies/SeaBeasties-Tools_Case-Study.md) | A suite of ad-supported micro-tools to demonstrate rapid development, branding, and UX design |
 | [Putting 'Stop Lights' on my office door](case-studies/stoplights.md) | What seemed simple at the time willed itself into being as a full-stack solution that I wasn't prepared to handle |
 | [Lesson 8 – Starting from Zero](case-studies/lesson8-starting-from-zero.md) | A confidence-first programming lesson for true beginners |
+| [Voiceover tempo control](case-studies/voice-over-tempo.md) | A simple tip to keep a steady cadence without external stimuli during recording. |
 
 ---
 ## 🤝 Let’s Work Together
