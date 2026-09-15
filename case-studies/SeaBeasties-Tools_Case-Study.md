@@ -1,4 +1,5 @@
 # Case Study: SeaBeasties Tools – Micro-Utility Suite
+**NOTE: SeaBeasties Tools is temporarily offline due to unforeseen circumstances. It will be back online soon**
 
 **Client:** Self-Initiated  
 **Service Area:** Full-Stack Tool Development, Branding, UX Design, Monetization Strategy

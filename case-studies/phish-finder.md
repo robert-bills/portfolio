@@ -1,5 +1,7 @@
 # 📄 Case Study: Real-World Phishing Response and Tool Enhancement
 
+**NOTE: SeaBeasties Tools is temporarily offline due to unforeseen circumstances. It will be back online soon**
+
 **Incident Date:** 25 July 2025  
 **Author:** Rob Bills — Developer · Educator · Concerned Citizen  
 **Tool:** [Phish Finder – SeaBeasties Tools](https://seabeasties.tools/phish-finder)
